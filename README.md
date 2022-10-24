@@ -1,7 +1,7 @@
 # Hi, I'm Germaine
 **`Digital Craftsman (Developer/Editor/Innovator)`**
 
-My goal is to be a full stack web and app developer, one repository at a time.
+My goal is to become a full stack web and app developer, one repository at a time.
 
 ---
 
